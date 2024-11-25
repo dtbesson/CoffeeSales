@@ -5,6 +5,7 @@ We can use the slicers and the timeline to change all of the graphs simultaneous
 ![image](https://github.com/user-attachments/assets/5f88672b-3df6-4cb9-abbc-dffe7137de88)
 In this repository, I go over the process used to create this final dashboard.
 
+## The Data
 The spreadsheet has the following subsheets, which have the following columns:
 - "customers", which contains information on the customers placing orders:
    - Customer ID
