@@ -57,4 +57,3 @@ The spreadsheet has the following subsheets, which have the following columns:
 - Create the dashboard:
   - Paste the 3 created graphs, slicers and timeline into a new subsheet titled "dashboard"
   - Report connections from the slicers and timeline to all 3 graphs, so they control them all simultaneously
-  - 
