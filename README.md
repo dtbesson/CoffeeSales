@@ -1,6 +1,7 @@
 # CoffeeSales
 A quick Excel project designed by Mo Chen on YouTube (https://www.youtube.com/@mo-chen). It uses some made-up data on a coffee companies sales. The aim was to create some useful columns and visualisations, which we then format as a nice dashboard:
 ![image](https://github.com/user-attachments/assets/02760061-82c7-48e7-a03b-e5d0f1f8b7c1)
+
 We can use the slicers and the timeline to change all of the graphs simultaneously:
 ![image](https://github.com/user-attachments/assets/5f88672b-3df6-4cb9-abbc-dffe7137de88)
 
@@ -63,7 +64,9 @@ The spreadsheet has the following subsheets, which have the following columns:
 
 ## PowerBI
 I export the cleaned and modified Excel file to PowerBI, and create the dashboard there in a similar way. Here is the resulting dashboard:
-![image](https://github.com/user-attachments/assets/f4929feb-6ca4-4ee6-b46f-99e114213491)
+![image](https://github.com/user-attachments/assets/62334574-b9f6-4726-bfd4-c4f01601ace8)
+
 With some slicers applied:
-![image](https://github.com/user-attachments/assets/5ba70903-471f-47b9-b244-bd7b1696c744)
+![image](https://github.com/user-attachments/assets/aeaa0043-fc9f-4e96-a9f2-50befd16d36d)
+
 
