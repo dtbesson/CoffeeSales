@@ -3,7 +3,10 @@ A quick Excel project designed by Mo Chen on YouTube (https://www.youtube.com/@m
 ![image](https://github.com/user-attachments/assets/02760061-82c7-48e7-a03b-e5d0f1f8b7c1)
 We can use the slicers and the timeline to change all of the graphs simultaneously:
 ![image](https://github.com/user-attachments/assets/5f88672b-3df6-4cb9-abbc-dffe7137de88)
+
 In this repository, I go over the process used to create this final dashboard.
+
+I then also repeat a similar process in PowerBI, to practise its interface.
 
 ## The Data
 The spreadsheet has the following subsheets, which have the following columns:
@@ -57,3 +60,10 @@ The spreadsheet has the following subsheets, which have the following columns:
 - Create the dashboard:
   - Paste the 3 created graphs, slicers and timeline into a new subsheet titled "dashboard"
   - Report connections from the slicers and timeline to all 3 graphs, so they control them all simultaneously
+
+## PowerBI
+I export the cleaned and modified Excel file to PowerBI, and create the dashboard there in a similar way. Here is the resulting dashboard:
+![image](https://github.com/user-attachments/assets/f4929feb-6ca4-4ee6-b46f-99e114213491)
+With some slicers applied:
+![image](https://github.com/user-attachments/assets/5ba70903-471f-47b9-b244-bd7b1696c744)
+
